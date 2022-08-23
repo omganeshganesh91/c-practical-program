@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+  int a[3][3],b[3],[3];
+  int i,j;
+  clrscr();
+  printf("Enter A matrix:\n");
+  for(i=0;i<3;i++)
+  {
+    for(j=0;j<3;j++)
+    scanf("%d",&i,j);
+  }
+    printf("Enter B matrix:/n");
+    for(i0;j<3;j++)
+    {
+
+
+
+
+
+

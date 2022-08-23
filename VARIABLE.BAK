@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ int age=20;
+ float height=5.4;
+ char sex='M';
+ printf("\nAge:%d \nFloat:%g\nsex:%c",age,height,sex);
+ clrscr();
+ getch();
+}

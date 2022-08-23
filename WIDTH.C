@@ -1,0 +1,38 @@
+#include<stdio.h>
+void main()
+{
+ clrscr();
+ printf("\n%.2s","abcdef");
+ printf("\n%.3s","abcdef");
+ printf("\n%4s","abcdef");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
